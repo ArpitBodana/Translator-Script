@@ -1,0 +1,23 @@
+1. Put Script in the folder of file or put docx file or script in same folder.
+2. Put the filename to the line no 15 within quotes into the script.
+3. Run the script.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+												 #ArpitBodana

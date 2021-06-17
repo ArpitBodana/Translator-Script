@@ -1,0 +1,21 @@
+First install this modules 
+1. python-docx
+2. google_trans_new
+3. googletrans 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													    #ArpitBodana
